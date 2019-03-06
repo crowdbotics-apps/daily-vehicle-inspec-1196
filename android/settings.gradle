@@ -1,0 +1,3 @@
+rootProject.name = 'daily_vehicle_inspec_1196'
+
+include ':app'
